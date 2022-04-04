@@ -1,0 +1,61 @@
+body {
+    background-color: #020004;
+    overflow-x: hidden;
+    
+    
+}
+.H1 {
+    display: flex;
+    justify-content: center;
+    opacity: 0.60;
+    
+
+}
+.Jerry {
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+}
+.Wellcome {
+    color: aliceblue;
+    overflow-x: hidden;
+    font-size: 25px;
+   
+}
+
+.Me {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+
+.L1 {
+    position: relative;
+    left: 670px;
+    top: 190px;
+    
+}
+.L2 {
+    position: relative;
+    bottom: -66px;
+    left: 860px;
+    
+}
+.L3 {
+    position: relative;
+    bottom: 60px;
+    left: 1020px;
+    
+}
+
+
+
+.link {
+    position: absolute;
+    left: 1700px;
+
+    
+    
+}
